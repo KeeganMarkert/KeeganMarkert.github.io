@@ -5,7 +5,7 @@ body { 	background-color: #EAEAEA;
 		margin-left: 10%; 
 		margin-right: 10%; }
 	
-header { background-color: #D35400;
+header { background-color: #FF660B;
 		background-image: url(CdSlogo.png);
 		background-position: left; 
 		background-repeat: no-repeat;
@@ -20,7 +20,7 @@ header h1 { letter-spacing: 0.15em;
 		white-space: nowrap;
 		text-indent: 160px; }
 	
-nav { 	background-color: #D35400;
+nav { 	background-color: #FF660B;
 		font-weight: bold;
 		height: 430px;
 		width: 160px;
@@ -82,7 +82,7 @@ h1 { font-family: Georgia, "Times New Roman", serif;
 	color: #000000; }
 	
 h2 { font-family: Georgia, "Times New Roman", serif;
-	color: #D35400; }
+	color: #FF660B; }
 
 h3 { font-family: Georgia, "Times New Roman", serif; 
 	color: #000000; }
@@ -90,7 +90,7 @@ h3 { font-family: Georgia, "Times New Roman", serif;
 h4 { font-family: Georgia, "Times New Roman", serif; 
 	color: #606060; }
 
-footer { background-color: #D35400;
+footer { background-color: #FF660B;
 		color: #000000;
 		font-size: 75%;
 		font-style: italic; 
@@ -105,13 +105,13 @@ form { width: 60%;
 		grid-template-rows:	auto;
 		grid-template-columns: 100px 1fr; }
 		
-table {border: 2px solid #D35400; 
+table {border: 2px solid #FF660B; 
 	border-collapse: collapse; }
 
 td { padding: .5em;
-	border: 2px solid #D35400; }
+	border: 2px solid #FF660B; }
 
-th { border: 2px solid #D35400; 
+th { border: 2px solid #FF660B; 
 	padding: 1em; 
 	text-align: center; }
 	
