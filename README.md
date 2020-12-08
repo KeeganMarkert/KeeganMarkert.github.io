@@ -1,2 +1,2 @@
 # KeeganMarkert.github.io
- Corona del Sol Cheerleading Website
+Corona del Sol Cheerleading Website
